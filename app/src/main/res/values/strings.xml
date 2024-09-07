@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="hint_wt">Enter your weight</string>
+    <string name="hint_htf">Enter your height in ft</string>
+    <string name="hint_htin">Enter your height in inc</string>
+    <string name="btn">Calculate BMI</string>
+    <string name="result">Result</string>
+
+</resources>
